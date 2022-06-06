@@ -1,0 +1,3 @@
+import random
+jokes = ["Knock knock. Who’s there? Interrupting cow. Interrupting c–MOO!", "What did the fish say when he swam into a wall? DAM", "Why was the new head IT official of IBM hospitalized? Because he didn't know and accidentally touched the firewall.", "Why are computers not good boxers at all? It is because their barks are always worse than their bytes!"]
+print(jokes[random.randrange(4)])
